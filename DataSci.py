@@ -15,7 +15,7 @@ from sklearn.metrics import accuracy_score
 st.title('Data Science Classifier')
 
 st.write("""
-Explore different classification methods with a few different datasets
+Explore different classification methods and different datasets
 
 """)
 
