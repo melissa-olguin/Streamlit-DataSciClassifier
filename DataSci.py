@@ -12,11 +12,11 @@ from sklearn.ensemble import RandomForestClassifier
 
 from sklearn.metrics import accuracy_score
 #Python libraries: streamlit, numpy, matplotlib, scikitlearn
-st.title('Streamlit Example')
+st.title('Data Science Classifier')
 
 st.write("""
-# Explore different classifier and datasets
-Which one is the best?
+Explore different classifier and datasets
+
 """)
 
 dataset_name = st.sidebar.selectbox(
